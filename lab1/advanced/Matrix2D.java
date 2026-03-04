@@ -22,8 +22,7 @@ public class Matrix2D{
 
         return new int[]{rand_sus, rand_jos, col_stanga, col_dreapta};
     }
-
-
+    
     //transforma matricea intr un string si o afisez folosind metoda
     static String matrixToString(int[][] image)
     {
