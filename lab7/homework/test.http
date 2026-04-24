@@ -1,0 +1,10 @@
+POST http://localhost:8081/movies?title=Inception&year=2010&duration=148&soundtrack=Hans%20Zimmer&genreId=1
+
+###
+PUT http://localhost:8081/movies?id=4&title=InceptionUpdated&year=2011&duration=150&soundtrack=Hans%20Zimmer&genreId=1
+
+###
+PATCH http://localhost:8081/movies?id=4&score=9.5
+
+###
+DELETE http://localhost:8081/movies?id=3
