@@ -1,7 +1,5 @@
 Proiectul contine urmatoarele clase:
 
-Clasa Main este folosita pentru a porni aplicatia.
-
 Clasa MainFrame reprezinta fereastra principala a aplicatiei. 
 In aceasta sunt adaugate cele 3 panouri: ConfigPanel, DrawingPanel si ControlPanel, folosind BorderLayout (sus, centru, jos).
 
